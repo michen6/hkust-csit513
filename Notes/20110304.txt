@@ -1,0 +1,26 @@
+Mar 4, 2011
+
+CSIT 513 Building Applications for Computational Finance
+
+2MoneyMarket.ppt
+****Omitted****
+
+3FRA_IRF.ppt
+
+FRA: Forward Rate Agreements
+IRF: Interest Rate Futures
+
+Forward-forward
+
+Constructing forward-forward
+
+Simple Questions
+Q: If interest rates rist
+	- buyer of FRA will?
+	ans: win
+	- buyer of futures will
+	ans: lose
+	
+Q: If a trader sells an FRA to a counterparty
+	- He should?
+	ans: 
